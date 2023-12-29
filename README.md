@@ -1,9 +1,6 @@
 # React + Vite
+# My First React Application Yay!!!
+# ReactApp-MetropolitanMuseumOfArtAPI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# React-App-Metropolitan-Museum-of-Art-API-
+## Welcome to The Metropolitan Museum of Art Collection API:
+### Created a Single Page Application using React that implements routes using Vite and react router 6. The application will be making Axios calls to the Metropolitan Museum of Art API for data.
